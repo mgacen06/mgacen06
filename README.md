@@ -1,5 +1,4 @@
 ### Bienvenido al repositorio de Mario Garcia Cenarro 👋
-![Mario Garcia Arbitrando](https://github.com/mgacen06/mgacen06/blob/main/assets/MARIO%20PARTIDO.jpg?raw=true)
 <!--
 
 Here are some ideas to get you started:
